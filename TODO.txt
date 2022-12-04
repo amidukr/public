@@ -1,0 +1,5 @@
+Dmytro Brazhnyk:
+
+- Polynomial computer algorithm performance complexity analysis of O(n · log(n)). Sub-zero field of positive infinities.
+- Aerodynamic. Bernoulli contradiction. Thermodynamics of non-ideal gas.
+- Hawking radiation - highway principle - breaking speed limit.
